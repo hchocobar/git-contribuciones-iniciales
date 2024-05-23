@@ -138,5 +138,3 @@ Ahora me toca a mi revisar tus cambios y fusionarlos (haciendo *merge*) con la r
 
 ## Gracias
 Si este repositorio te ha sido útil, ¡considera marcarlo con una estrella ⭐ y seguirme en mi perfil de GitHub para estar al tanto de nuevos proyectos y actualizaciones!
-
-[¡Sígueme en GitHub!](https://github.com/EduardoHernandezGuzman)
