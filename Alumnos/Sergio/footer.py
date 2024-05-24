@@ -1,0 +1,1 @@
+<footer><h6>ESTO ES UN FOOTER</h6></footer>
