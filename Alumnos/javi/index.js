@@ -1,0 +1,2 @@
+let mes = ['enero', 'febrero'];
+
