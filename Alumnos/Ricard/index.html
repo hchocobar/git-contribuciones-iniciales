@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Galería de Fotos</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        h1 {
+            margin-top: 20px;
+        }
+        .gallery {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            gap: 10px;
+            margin: 20px;
+        }
+        .gallery img {
+            max-width: 100%;
+            height: auto;
+            border: 2px solid #ccc;
+            box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <h1>Galería de Fotos</h1>
+    <div class="gallery">
+        <img src="https://picsum.photos/id/1015/300/200" alt="Foto 1">
+        <img src="https://picsum.photos/id/1016/300/200" alt="Foto 2">
+        <img src="https://picsum.photos/id/1018/300/200" alt="Foto 3">
+        <img src="https://picsum.photos/id/1019/300/200" alt="Foto 4">
+    </div>
+</body>
+</html></html>
